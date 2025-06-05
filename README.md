@@ -15,16 +15,14 @@ I completed my **Diploma in Computer Science and Engineering** from **Government
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: najiyanazrincn@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/najiya-nazrin-c-n-8aa33822b  
 
 ---
 
