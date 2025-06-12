@@ -22,7 +22,8 @@ I completed my **Diploma in Computer Science and Engineering** from **Government
 ## 📫 Contact Me
 
 - 📧 Email: najiyanazrincn@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/najiya-nazrin-c-n-8aa33822b  
+- 💼 LinkedIn: https://linkedin.com/in/najiya-nazrin-c-n-8aa33822b
+- Porfolio: https://najiya-nazrin.github.io/Personsal-Portfolio/
 
 ---
 
